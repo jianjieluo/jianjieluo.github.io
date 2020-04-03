@@ -20,11 +20,11 @@ Experiences
   * Computer Vision and Multimedia Lab at JD AI Research
   * Mentor: [Ting Yao](http://tingyao.deepfun.club/)
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Awards
 ======
