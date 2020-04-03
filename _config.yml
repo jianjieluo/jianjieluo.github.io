@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Jianjie Luo"
 title_separator          : "-"
-name                     : &name "Jianjie Luo"
+name                     : &name "Jianjie(JJ) Luo"
 description              : &description "Ph.D. student in SYSU & JDAIR."
-url                      : https://jianjieluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jianjieluo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jianjieluo/jianjieluo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jianjie Luo (罗剑杰)"
-  avatar           : "profile.png"
+  avatar           : "profile1.png"
   bio              : "Ph.D. student in SYSU & JDAIR."
   location         : "Beijing & Guangzhou, China"
   employer         :
