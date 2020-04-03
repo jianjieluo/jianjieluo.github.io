@@ -9,5 +9,3 @@ redirect_from:
 ---
 
 This is Jianjie Luo's home on the web!
-
-Test-string

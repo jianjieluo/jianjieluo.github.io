@@ -11,24 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in Software Engineering, Sun Yat-sen University, 2019
-* Ph.D in Computer Science, Sun Yat-sen University, 2024 (expected)
+* B.S. in Software Engineering(Digital Media Technology), Sun Yat-sen University, 2019
+* Ph.D in Computer Science and Technology, Sun Yat-sen University, 2024 (expected)
 
 Experiences
 ======
 * 2018/07 - 2019/04: Research Intern
-  * JD AI Research
-  * Duties included: Tagging issues
-  * Mentor: Ting Yao
-
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
+  * Computer Vision and Multimedia Lab at JD AI Research
+  * Mentor: [Ting Yao](http://tingyao.deepfun.club/)
 
 Publications
 ======
@@ -36,6 +26,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Awards
+======
+* National Scholarship, 2018
+* **Finalist Winner** of 2018 American College Students Mathematical Modeling Contest
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
