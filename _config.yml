@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Jianjie Luo"
 title_separator          : "-"
-name                     : &name "Jianjie(JJ) Luo"
+name                     : &name "Jianjie Luo"
 description              : &description "Ph.D. student in SYSU & JDAIR."
 url                      : "https://jianjieluo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
