@@ -29,7 +29,7 @@ Experiences
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-Awards
+Selected Awards
 ======
 * Outstanding Undergraduate, SYSU 2019
 * National Scholarship, 2018
