@@ -14,7 +14,7 @@ I join the Computer Vision and Multimedia Lab at [JD AI Research(JDAIR)](https:/
 
 Education
 ======
-* B.S. in Software Engineering(Digital Media Technology), Sun Yat-sen University, 2019
+* B.S. in Software Engineering, Sun Yat-sen University, 2019
 * Ph.D in Computer Science and Technology, Sun Yat-sen University, 2024 (expected)
 
 Experiences
@@ -31,5 +31,6 @@ Experiences
   
 Awards
 ======
+* Outstanding Undergraduate, SYSU 2019
 * National Scholarship, 2018
 * **Finalist Winner** of 2018 American College Students Mathematical Modeling Contest
