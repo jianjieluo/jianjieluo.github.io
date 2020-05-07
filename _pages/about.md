@@ -36,5 +36,5 @@ Experiences
 Selected Awards
 ======
 * **Outstanding Undergraduate**, SYSU 2019, **Top 5%** in SYSU
-* **National Scholarship**, 2018, **Top 1%** in SDCS school
+* **National Scholarship**, 2018, **Top 1%** in SYSU
 * **Finalist Winner** of 2018 American College Students Mathematical Modeling Contest, **Top 0.38%** in 20638 teams
