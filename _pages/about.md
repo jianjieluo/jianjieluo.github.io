@@ -20,8 +20,12 @@ Education
 Experiences
 ======
 * 2018/07 - 2019/04: Research Intern
-  * Computer Vision and Multimedia Lab at JD AI Research
+  * Computer Vision and Multimedia Lab at JD AI Research, Beijing
   * Mentor: [Ting Yao](http://tingyao.deepfun.club/)
+
+* 2018/03 - 2018/06: Research Intern
+  * [Pixtalks Technology](http://www.pixtalks.com/home), Guangzhou
+  * Mentor: [Shengyong Ding](https://dblp.uni-trier.de/pers/hd/d/Ding:Shengyong)
 
 <!-- Publications
 ======
@@ -31,6 +35,6 @@ Experiences
   
 Selected Awards
 ======
-* Outstanding Undergraduate, SYSU 2019
-* National Scholarship, 2018
-* **Finalist Winner** of 2018 American College Students Mathematical Modeling Contest
+* **Outstanding Undergraduate**, SYSU 2019, **Top 5%** in SYSU
+* **National Scholarship**, 2018, **Top 1%** in SDCS school
+* **Finalist Winner** of 2018 American College Students Mathematical Modeling Contest, **Top 0.38%** in 20638 teams
