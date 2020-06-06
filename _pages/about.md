@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a Ph.D student of [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) in [Sun Yat-sen University(SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), advised by [Prof. Hongyang Chao](http://sdcs.sysu.edu.cn/content/2508).
 
-I join the Computer Vision and Multimedia Lab at [JD AI Research(JDAIR)](https://air.jd.com/#index) as a research intern, advised by [Dr. Tao Mei](https://taomei.me/) and [Dr. Ting Yao](http://tingyao.deepfun.club/). My research interest is vision and language.
+I join the Computer Vision and Multimedia Lab at [JD AI Research(JDAIR)](https://air.jd.com/#index) as a research intern, advised by [Dr. Tao Mei](https://taomei.me/) and [Dr. Ting Yao](http://tingyao.deepfun.club/). My research interest is vision-and-language.
 
 Education
 ======
