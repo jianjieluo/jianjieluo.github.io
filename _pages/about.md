@@ -34,7 +34,8 @@ Publications
 **2020**
 
 <ul>{% for publication in site.data.publications.year2020 %}
-  {% include publication-single.html %}
+  <!-- {% include publication-single.html %} -->
+  {% include archive-single-cv.html %}
 {% endfor %}</ul>
 
 Experiences
