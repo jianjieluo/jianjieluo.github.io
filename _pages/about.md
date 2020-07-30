@@ -8,31 +8,39 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D student of [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) in [Sun Yat-sen University(SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), advised by [Prof. Hongyang Chao](http://sdcs.sysu.edu.cn/content/2508).
+I am currently a Ph.D student of [School of Data and Computer Science](http://sdcs.sysu.edu.cn/) in [Sun Yat-sen University(SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), a member of a joint Ph.D. program between SYSU and [JD AI Research(JDAIR)](https://air.jd.com/#index). My advisors are [Dr. Ting Yao](http://tingyao.deepfun.club/), [Dr. Tao Mei](https://taomei.me/) and [Prof. Hongyang Chao](http://sdcs.sysu.edu.cn/content/2508).
 
-I join the Computer Vision and Multimedia Lab at [JD AI Research(JDAIR)](https://air.jd.com/#index) as a research intern, advised by [Dr. Tao Mei](https://taomei.me/) and [Dr. Ting Yao](http://tingyao.deepfun.club/). My research interest is vision-and-language.
+Research Interests
+======
+* Vision and Language
+* Video Analytics
+* Self-supervised Representation Learning
 
 Education
 ======
-* B.S. in Software Engineering, Sun Yat-sen University, 2019
-* Ph.D in Computer Science and Technology, Sun Yat-sen University, 2024 (expected)
+* *08/2019 - 06/2024, Sun Yat-Sen University*
+  Ph.D. in Computer Science and Technology (Expected June 2024)
+  Joint Ph.D. Program with JD AI Research
 
-Experiences
-======
-* 2018/07 - 2019/04: Research Intern
-  * Computer Vision and Multimedia Lab at JD AI Research, Beijing
-  * Mentor: [Ting Yao](http://tingyao.deepfun.club/)
+* *08/2015 - 07/2019, Sun Yat-sen University (GPA:3.9, rank 8/120)*
+  B.S. in Software Engineering
 
-* 2018/03 - 2018/06: Research Intern
-  * [Pixtalks Technology](http://www.pixtalks.com/home), Guangzhou
-  * Mentor: [Shengyong Ding](https://dblp.uni-trier.de/pers/hd/d/Ding:Shengyong)
-
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
+  {% endfor %}</ul>
+
+Experiences
+======
+* 07/2018 - 04/2019: Research Intern
+  * Computer Vision and Multimedia Lab at JD AI Research, Beijing
+  * Mentor: [Ting Yao](http://tingyao.deepfun.club/)
+
+* 03/2018 - 06/2018: Research Intern
+  * [Pixtalks Technology](http://www.pixtalks.com/home), Guangzhou
+  * Mentor: [Shengyong Ding](https://dblp.uni-trier.de/pers/hd/d/Ding:Shengyong)
+
 Selected Awards
 ======
 * **Outstanding Undergraduate**, SYSU 2019, **Top 5%** in SYSU
