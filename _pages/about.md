@@ -27,15 +27,12 @@ Education
 
 Publications
 ======
-  <!-- <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
 
-**2020**
-
-<ul>{% for publication in site.data.publications.year2020 %}
+<h3>2020</h3>
+{% for publication in site.data.publications.year2020 %}
   {% include publication-single.html %}
-{% endfor %}</ul>
+{% endfor %}
+<div style="clear: both;"></div>
 
 Experiences
 ======
