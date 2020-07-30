@@ -19,20 +19,23 @@ Research Interests
 Education
 ======
 * **08/2019 - 06/2024, Sun Yat-Sen University**
-
-  Ph.D. in Computer Science and Technology (Expected June 2024)
-
-  Joint Ph.D. Program with JD AI Research
+  * Ph.D. in Computer Science and Technology (Expected June 2024)
+  * Joint Ph.D. Program with JD AI Research
 
 * **08/2015 - 07/2019, Sun Yat-sen University (GPA:3.9, rank 8/120)**
-
-  B.S. in Software Engineering
+  * B.S. in Software Engineering
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
+
+**2020**
+
+<ul>{% for publication in site.data.publications.year2020 %}
+  {% include publication-single.html %}
+{% endfor %}</ul>
 
 Experiences
 ======

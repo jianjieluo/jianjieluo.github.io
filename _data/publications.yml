@@ -1,0 +1,8 @@
+# Publications on home page
+year2020:
+  - title: "Auto-captions on GIF: A Large-scale Video-sentence Dataset for Vision-language Pre-training"
+    authors: "Yingwei Pan, Yehao Li, **Jianjie Luo**, Jun Xu, Ting Yao, Tao Mei"
+    venue: "In *Arxiv*, 2020."
+    # teaser: rerere.png
+    links:
+      - "[PDF](https://arxiv.org/pdf/2007.02375){: .btn .btn--info}"
