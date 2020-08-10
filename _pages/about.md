@@ -36,6 +36,10 @@ Publications
 
 Experiences
 ======
+* 08/2020 - Present: Research Intern
+  * Computer Vision and Multimedia Lab at JD AI Research, Beijing
+  * Mentor: [Ting Yao](http://tingyao.deepfun.club/)
+
 * 07/2018 - 04/2019: Research Intern
   * Computer Vision and Multimedia Lab at JD AI Research, Beijing
   * Mentor: [Ting Yao](http://tingyao.deepfun.club/)
