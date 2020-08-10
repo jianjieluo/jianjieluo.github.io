@@ -36,15 +36,15 @@ Publications
 
 Experiences
 ======
-* 08/2020 - Present: Research Intern
+* **08/2020 - Present**: Research Intern
   * Computer Vision and Multimedia Lab at JD AI Research, Beijing
   * Mentor: [Ting Yao](http://tingyao.deepfun.club/)
 
-* 07/2018 - 04/2019: Research Intern
+* **07/2018 - 04/2019**: Research Intern
   * Computer Vision and Multimedia Lab at JD AI Research, Beijing
   * Mentor: [Ting Yao](http://tingyao.deepfun.club/)
 
-* 03/2018 - 06/2018: Research Intern
+* **03/2018 - 06/2018**: Research Intern
   * [Pixtalks Technology](http://www.pixtalks.com/home), Guangzhou
   * Mentor: [Shengyong Ding](https://dblp.uni-trier.de/pers/hd/d/Ding:Shengyong)
 
