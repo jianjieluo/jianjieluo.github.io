@@ -25,7 +25,7 @@ Education
 * **08/2015 - 07/2019, Sun Yat-sen University (GPA:3.9, rank 8/120)**
   * B.S. in Software Engineering
 
-Publications
+Publications [\[Google Scholar\]](https://scholar.google.com/citations?user=PMgCjQcAAAAJ)
 ======
 
 <h3>2021</h3>
