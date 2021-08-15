@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D student of [School of Computer Science and Engineering](http://sdcs.sysu.edu.cn/) in [Sun Yat-sen University(SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), a member of a joint Ph.D. program between SYSU and [JD AI Research(JDAIR)](https://air.jd.com/#index). My advisors are [Dr. Ting Yao](http://tingyao.deepfun.club/), [Dr. Tao Mei](https://taomei.me/) and [Prof. Hongyang Chao](http://sdcs.sysu.edu.cn/content/2508).
+I am currently a Ph.D student of [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) in [Sun Yat-sen University(SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), a member of a joint Ph.D. program between SYSU and [JD AI Research(JDAIR)](https://air.jd.com/#index). My advisors are [Dr. Ting Yao](http://tingyao.deepfun.club/), [Dr. Tao Mei](https://taomei.me/) and [Prof. Hongyang Chao](http://sdcs.sysu.edu.cn/content/2508).
 
 Research Interests
 ======
