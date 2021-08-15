@@ -28,6 +28,12 @@ Education
 Publications
 ======
 
+<h3>2021</h3>
+{% for publication in site.data.publications.year2021 %}
+  {% include publication-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>
+
 <h3>2020</h3>
 {% for publication in site.data.publications.year2020 %}
   {% include publication-single.html %}

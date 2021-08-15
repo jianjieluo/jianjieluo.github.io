@@ -1,4 +1,10 @@
 # Publications on home page
+year2021:
+  - title: "CoCo-BERT: Improving Video-Language Pre-training with Contrastive Cross-modal Matching and Denoising"
+    authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Hongyang Chao, Tao Mei"
+    venue: "In *ACM Multimedia*, 2021."
+    teaser: coco_bert.png
+
 year2020:
   - title: "Auto-captions on GIF: A Large-scale Video-sentence Dataset for Vision-language Pre-training"
     authors: "Yingwei Pan, Yehao Li, **Jianjie Luo**, Jun Xu, Ting Yao, Tao Mei"
