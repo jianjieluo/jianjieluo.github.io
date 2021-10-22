@@ -57,6 +57,12 @@ I am currently a Ph.D student of [School of Computer Science and Engineering](ht
 * **08/2015 - 07/2019, Sun Yat-sen University (GPA:3.9, rank 8/120)**
   * B.S. in Software Engineering
 
+<h2 style="clear: both;">Selected Awards</h2>
+
+* **Outstanding Undergraduate**, SYSU 2019, **Top 5%** in SYSU
+* **National Scholarship**, 2018, **Top 1%** in SYSU
+* **Finalist Winner** of 2018 American College Students Mathematical Modeling Contest, **Top 0.38%** in 20638 teams
+
 <h2 style="clear: both;">Experiences</h2>
 
 * **08/2020 - Present**: Research Intern
@@ -71,8 +77,4 @@ I am currently a Ph.D student of [School of Computer Science and Engineering](ht
   * [Pixtalks Technology](http://www.pixtalks.com/home), Guangzhou
   * Mentor: [Shengyong Ding](https://dblp.uni-trier.de/pers/hd/d/Ding:Shengyong)
 
-<h2 style="clear: both;">Selected Awards</h2>
 
-* **Outstanding Undergraduate**, SYSU 2019, **Top 5%** in SYSU
-* **National Scholarship**, 2018, **Top 1%** in SYSU
-* **Finalist Winner** of 2018 American College Students Mathematical Modeling Contest, **Top 0.38%** in 20638 teams
