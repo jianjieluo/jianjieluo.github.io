@@ -1,6 +1,6 @@
 ---
+layout: single
 permalink: /
-title: "News"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
+<h2>News</h2>
 <div id="news">
   {% for item in site.data.news.main %}
   <p><strong><font class="new">NEW! </font></strong>{{ item | markdownify | remove: '<p>' | remove: '</p>'}}</p>
@@ -20,6 +23,20 @@ redirect_from:
   {% endfor %}
   <a href="#" onclick="hideBlock('allnews'); showBlock('news'); return false;" class="btn btn--inverse">Less</a>
 </div>
+
+<h2 style="clear: both;" id="publications">Publications <a href="https://scholar.google.com/citations?user=PMgCjQcAAAAJ" style="font-size: 0.85em; font-weight: normal;">[Google Scholar]</a></h2>
+
+<h3>2021</h3>
+{% for publication in site.data.publications.year2021 %}
+  {% include publication-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>
+
+<h3>2020</h3>
+{% for publication in site.data.publications.year2020 %}
+  {% include publication-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>
 
 <h2>Bio</h2>
 
@@ -39,20 +56,6 @@ I am currently a Ph.D student of [School of Computer Science and Engineering](ht
 
 * **08/2015 - 07/2019, Sun Yat-sen University (GPA:3.9, rank 8/120)**
   * B.S. in Software Engineering
-
-<h2 style="clear: both;" id="publications">Publications <a href="https://scholar.google.com/citations?user=PMgCjQcAAAAJ" style="font-size: 0.85em; font-weight: normal;">[Google Scholar]</a></h2>
-
-<h3>2021</h3>
-{% for publication in site.data.publications.year2021 %}
-  {% include publication-single.html %}
-{% endfor %}
-<div style="clear: both;"></div>
-
-<h3>2020</h3>
-{% for publication in site.data.publications.year2020 %}
-  {% include publication-single.html %}
-{% endfor %}
-<div style="clear: both;"></div>
 
 <h2>Experiences</h2>
 
