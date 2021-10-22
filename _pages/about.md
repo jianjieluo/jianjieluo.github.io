@@ -38,17 +38,17 @@ redirect_from:
 {% endfor %}
 <div style="clear: both;"></div>
 
-<h2>Bio</h2>
+<h2 style="clear: both;" id="bio">Bio</h2>
 
 I am currently a Ph.D student of [School of Computer Science and Engineering](https://cse.sysu.edu.cn/) in [Sun Yat-sen University(SYSU)](http://www.sysu.edu.cn/2012/en/index.htm), a member of a joint Ph.D. program between SYSU and [JD AI Research(JDAIR)](https://air.jd.com/#index). My advisors are [Dr. Ting Yao](http://tingyao.deepfun.club/), [Dr. Tao Mei](https://taomei.me/) and [Prof. Hongyang Chao](https://cse.sysu.edu.cn/content/2508).
 
-<h2>Research Interests</h2>
+<h2 style="clear: both;" >Research Interests</h2>
 
 * Vision and Language
 * Video Analytics
 * Representation Learning
 
-<h2>Education</h2>
+<h2 style="clear: both;">Education</h2>
 
 * **08/2019 - 06/2024, Sun Yat-Sen University**
   * Ph.D. in Computer Science and Technology (Expected June 2024)
@@ -57,7 +57,7 @@ I am currently a Ph.D student of [School of Computer Science and Engineering](ht
 * **08/2015 - 07/2019, Sun Yat-sen University (GPA:3.9, rank 8/120)**
   * B.S. in Software Engineering
 
-<h2>Experiences</h2>
+<h2 style="clear: both;">Experiences</h2>
 
 * **08/2020 - Present**: Research Intern
   * Computer Vision and Multimedia Lab at JD AI Research, Beijing
@@ -71,7 +71,7 @@ I am currently a Ph.D student of [School of Computer Science and Engineering](ht
   * [Pixtalks Technology](http://www.pixtalks.com/home), Guangzhou
   * Mentor: [Shengyong Ding](https://dblp.uni-trier.de/pers/hd/d/Ding:Shengyong)
 
-<h2>Selected Awards</h2>
+<h2 style="clear: both;">Selected Awards</h2>
 
 * **Outstanding Undergraduate**, SYSU 2019, **Top 5%** in SYSU
 * **National Scholarship**, 2018, **Top 1%** in SYSU
