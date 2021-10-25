@@ -1,7 +1,17 @@
-An academic website of Jianjie Luo. This was forked from the [academicpages.github.io](https://github.com/academicpages/academicpages.github.io).
+# Jianjie Luo website
 
-### Note: if you are using this repo and now get a notification about a security vulnerability, delete the Gemfile.lock file. 
+## Commands
 
-# Instructions
+### Serve at localhost:4000
+- $ bundle exec jekyll build
+- $ bundle exec jekyll serve
 
-For more information, you can refer to the [origin repo readme](https://github.com/academicpages/academicpages.github.io/blob/master/README.md) and [this set of diffs](http://archive.is/3TPas).
+### Push to github pages
+- $ git push origin master
+
+### Rebuild css from _scss
+- $ npm run build:css
+
+## Based on Minimal Mistakes theme
+=======
+# [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
