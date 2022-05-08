@@ -1,4 +1,12 @@
 # Publications on home page
+year2022:
+  - title: "Boosting Vision-and-Language Navigation with Direction Guiding and Backtracing"
+    authors: "Jingwen Chen, **Jianjie Luo**, Yingwei Pan, Yehao Li, Ting Yao, Hongyang Chao, Tao Mei"
+    venue: "In *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2022."
+    teaser: DNA.png
+    links:
+      - "[PDF](https://dl.acm.org/doi/pdf/10.1145/3526024){: .btn .btn--info}"
+
 year2021:
   - title: "CoCo-BERT: Improving Video-Language Pre-training with Contrastive Cross-modal Matching and Denoising"
     authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Hongyang Chao, Tao Mei"
