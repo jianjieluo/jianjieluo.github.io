@@ -1,5 +1,13 @@
 # Publications on home page
 year2022:
+  - title: "Semantic-Conditional Diffusion Networks for Image Captioning"
+    authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Jianlin Feng, Hongyang Chao, Tao Mei"
+    venue: "In *Arxiv*, 2022."
+    teaser: SCD-Net.png
+    links:
+      - "[PDF](https://arxiv.org/pdf/2212.03099.pdf){: .btn .btn--info}"
+      - "[Code](https://github.com/jianjieluo/SCD-Net){: .btn .btn--inverse}"
+
   - title: "Boosting Vision-and-Language Navigation with Direction Guiding and Backtracing"
     authors: "Jingwen Chen, **Jianjie Luo**, Yingwei Pan, Yehao Li, Ting Yao, Hongyang Chao, Tao Mei"
     venue: "In *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2022."
@@ -18,7 +26,8 @@ year2021:
 year2020:
   - title: "Auto-captions on GIF: A Large-scale Video-sentence Dataset for Vision-language Pre-training"
     authors: "Yingwei Pan, Yehao Li, **Jianjie Luo**, Jun Xu, Ting Yao, Tao Mei"
-    venue: "In *Arxiv*, 2020."
+    venue: "In *Arxiv*, 2020. Finally accepted in *ACM Multimedia*, 2022."
     teaser: auto_captions_on_gif_dataset.png
     links:
-      - "[PDF](https://arxiv.org/pdf/2007.02375){: .btn .btn--info}"
+      - "[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3551581){: .btn .btn--info}"
+      - "[Website](http://www.auto-video-captions.top/2022/dataset){: .btn .btn--success}"
