@@ -1,13 +1,14 @@
 # Publications on home page
-year2022:
+year2023:
   - title: "Semantic-Conditional Diffusion Networks for Image Captioning"
     authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Jianlin Feng, Hongyang Chao, Tao Mei"
-    venue: "In *Arxiv*, 2022."
+    venue: "In *CVPR*, 2023."
     teaser: SCD-Net.png
     links:
       - "[PDF](https://arxiv.org/pdf/2212.03099.pdf){: .btn .btn--info}"
       - "[Code](https://github.com/jianjieluo/SCD-Net){: .btn .btn--inverse}"
 
+year2022:
   - title: "Boosting Vision-and-Language Navigation with Direction Guiding and Backtracing"
     authors: "Jingwen Chen, **Jianjie Luo**, Yingwei Pan, Yehao Li, Ting Yao, Hongyang Chao, Tao Mei"
     venue: "In *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2022."
