@@ -1,13 +1,13 @@
 # News on home page
 main:
+  - "(August 2024) One paper accepted to [IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)](https://ieee-cas.org/publication/tcsvt)."
   - "(July 2024) One paper accepted to [ECCV 2024](https://eccv.ecva.net/Conferences/2024)."
   - "(May 2023) I will attend [CVPR 2023](https://cvpr2023.thecvf.com/) conference onsite in Vancouver, Canada. Nice to meet you!"
   - "(February 2023) One paper accepted to [CVPR 2023](https://cvpr2023.thecvf.com/)."
   - "(July 2022) One paper accepted to [ACM MULTIMEDIA 2022](https://2022.acmmm.org/)."
-  - "(Match 2022) [PRE-TRAINING FOR VIDEO CAPTIONING CHALLENGE@ACM MULTIMEDIA 2022](http://www.auto-video-captions.top/2022/) launched for Video-Language Pretraining!"
-  - "(January 2022) One paper accepted to [ACM Transactions on Multimedia Computing, Communications, and Applications(TOMM)](https://dl.acm.org/journal/tomm)."
 
 all:
+  - "(August 2024) One paper accepted to [IEEE Transactions on Circuits and Systems for Video Technology(TCSVT)](https://ieee-cas.org/publication/tcsvt)."
   - "(July 2024) One paper accepted to [ECCV 2024](https://eccv.ecva.net/Conferences/2024)."
   - "(May 2023) I will attend [CVPR 2023](https://cvpr2023.thecvf.com/) conference onsite in Vancouver, Canada. Nice to meet you!"
   - "(February 2023) One paper accepted to [CVPR 2023](https://cvpr2023.thecvf.com/)."

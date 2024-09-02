@@ -1,9 +1,27 @@
 # Publications on home page
+
+year2024:
+  - title: "Unleashing Text-to-Image Diffusion Prior for Zero-Shot Image Captioning"
+    authors: "**Jianjie Luo**, Jingwen Chen, Yehao Li, Yingwei Pan, Jianlin Feng, Hongyang Chao, Ting Yao"
+    venue: "In *ECCV*, 2024."
+    teaser: PCM-Net.jpg
+    links:
+      - "[PDF](https://jianjieluo.github.io/SynthImgCap/static/pdfs/ECCV2024_main_CameraReady.pdf){: .btn .btn--info}"
+      - "[Website](https://jianjieluo.github.io/SynthImgCap/){: .btn .btn--success}"
+
+  - title: "Exploring Vision-Language Foundation Model for Novel Object Captioning"
+    authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Jianlin Feng, Hongyang Chao, Tao Mei"
+    venue: "In *IEEE Transactions on Circuits and Systems for Video Technology*, 2024."
+    teaser: NOTC.jpg
+    links:
+      - "[PDF](https://ieeexplore.ieee.org/document/10659916){: .btn .btn--info}"
+
+
 year2023:
   - title: "Semantic-Conditional Diffusion Networks for Image Captioning"
     authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Jianlin Feng, Hongyang Chao, Tao Mei"
     venue: "In *CVPR*, 2023."
-    teaser: SCD-Net.png
+    teaser: SCD-Net.jpg
     links:
       - "[PDF](https://arxiv.org/pdf/2212.03099.pdf){: .btn .btn--info}"
       - "[Code](https://github.com/jianjieluo/SCD-Net){: .btn .btn--inverse}"
@@ -20,7 +38,7 @@ year2021:
   - title: "CoCo-BERT: Improving Video-Language Pre-training with Contrastive Cross-modal Matching and Denoising"
     authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Hongyang Chao, Tao Mei"
     venue: "In *ACM Multimedia*, 2021."
-    teaser: coco_bert.png
+    teaser: coco_bert.jpg
     links:
       - "[PDF](https://arxiv.org/pdf/2112.07515.pdf){: .btn .btn--info}"
 
