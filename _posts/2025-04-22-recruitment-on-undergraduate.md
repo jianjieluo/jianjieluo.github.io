@@ -6,8 +6,7 @@ tags:
   - Recruitment
 ---
 
-Since this webpage is for recruiting undergraduate research students at Guangdong University of Technology (GDUT), hence the language is in Chinese. 
-<!-- If you are a foreign undergraduate student and are interested in doing research with us, please write me in English. -->
+Since this webpage is for recruiting undergraduate research students at Guangdong University of Technology (GDUT), hence the language is in Chinese.[^1]
 
 # 本科生进组科研要求
 
@@ -33,10 +32,10 @@ Since this webpage is for recruiting undergraduate research students at Guangdon
 
 ### (二) 学习态度
 科研工作需要充分的时间与精力投入。我们相信只有集中精力做好一件事才能做好。因此，我们希望加入本计划的学生能够合理安排课余时间，将至少 50% 的时间投入到科研项目中，以确保科研工作的连贯性和深入性。
-<!-- - 科研工作需要充分的时间与精力投入。我们相信只有集中精力做好一件事才能做好。因此，我们希望加入本计划的学生能够合理安排课余时间，将至少 50% 的时间投入到科研项目中，以确保科研工作的连贯性和深入性。若无法做到，请慎重考虑。根据我读博期间课题组的经验和已经取得成果的本科生，这个要求是很基本的。实验室会尽量提供位置给你们长期学习。
-- 加入后，不能轻言退出。希望你是真心想做一名学者。科研经常是挫折次数大于成功次数，请做好充足的心理准备。 -->
 
 ### (三) 学历规划
 我们积极鼓励加入研究计划的学生选择在广东工业大学继续攻读硕士学位，以培养优秀人才，促进研究组的长期发展；表现优秀的同学我可以帮忙推荐到知名大学（如中国科学技术大学、中山大学、香港理工大学等）继续攻读硕士/博士学位。请在联系时明确表达你的学历规划，我们高度重视学生的诚信和长远发展。
 
 欢迎有志于科研的同学加入我们，共同探索学术前沿！
+
+[^1]: 该本科生科研要求的初版主要参考中山大学计算机学院郑伟诗老师课题组的本科生要求 [Recruitment on Under-graduate Students](https://isee-ai.cn/~zhwshi/undergraduate.html) 进行适当地调整。郑老师在我求学期间曾给予过我数次科研和求职上的建议，特别感谢郑老师。
