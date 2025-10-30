@@ -1,14 +1,14 @@
 # Publications on home page
 year2025:
   - title: "Improving Identity Preservation in Video Generation with Multi-Branch Models"
-    authors: "Jiahao Xu, **Jianjie Luo**<sup>*</sup>, Zhenguo Yang"
+    authors: "Jiahao Xu, **Jianjie Luo**<span class=\"corr-author-badge\" title=\"Corresponding author\">✉</span>, Zhenguo Yang"
     venue: "In *ACM Multimedia*, 2025."
     teaser: IPVG-challenge2025.jpg
     links:
       - "[PDF](https://dl.acm.org/doi/10.1145/3746027.3761990){: .btn .btn--info}"
 
   - title: "Multi-Perspective Frequency Domain Learning for Generalizable AI-Generated Image Detection"
-    authors: "Zili Xu, **Jianjie Luo**<sup>*</sup>, Fuqiang Yu, Zhenguo Yang"
+    authors: "Zili Xu, **Jianjie Luo**<span class=\"corr-author-badge\" title=\"Corresponding author\">✉</span>, Fuqiang Yu, Zhenguo Yang"
     venue: "In *European Conference on Artificial Intelligence*, 2025."
     teaser: Deepfake-MFDL.jpg
     links:
