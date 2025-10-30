@@ -50,7 +50,7 @@ I am currently a Lecturer in <a href="https://cs.gdut.edu.cn/" target="_blank">t
 
 <h2 style="clear: both;">Experiences</h2>
 <ul>
-  <li><b>01/2025 - Present</b>, Guangdong University of Technology (GDUT), Guangzhou(Canton)</li>
+  <li><b>01/2025 - Present</b>, Guangdong University of Technology (GDUT), Guangzhou (Canton)</li>
   <ul>
     <li>Lecturer @ School of Computer Science and Technology</li>
   </ul>
@@ -69,7 +69,7 @@ I am currently a Lecturer in <a href="https://cs.gdut.edu.cn/" target="_blank">t
     <li>Research Intern (Star Intern Award)</li>
     <li>Mentor: <a href="http://tingyao.deepfun.club/" target="_blank">Ting Yao</a></li>
   </ul>
-  <li><b>03/2018 - 06/2018</b>, <a href="http://www.pixtalks.com/home" target="_blank">Pixtalks Technology</a>, Guangzhou(Canton)</li>
+  <li><b>03/2018 - 06/2018</b>, <a href="http://www.pixtalks.com/home" target="_blank">Pixtalks Technology</a>, Guangzhou (Canton)</li>
   <ul>
     <li>Research Intern</li>
     <li>Mentor: <a href="https://fds.cityu.edu.mo/members/238" target="_blank">Shengyong Ding</a></li>
@@ -77,6 +77,12 @@ I am currently a Lecturer in <a href="https://cs.gdut.edu.cn/" target="_blank">t
 </ul>
 
 <h2 style="clear: both;" id="publications">Publications <a href="https://scholar.google.com/citations?user=PMgCjQcAAAAJ" style="font-size: 0.85em; font-weight: normal;">[Google Scholar]</a></h2>
+('*' refers to Corresponding Author)
+<h3>2025</h3>
+{% for publication in site.data.publications.year2025 %}
+  {% include publication-single.html %}
+{% endfor %}
+<div style="clear: both;"></div>
 <h3>2024</h3>
 {% for publication in site.data.publications.year2024 %}
   {% include publication-single.html %}
