@@ -9,10 +9,17 @@ year2025:
 
   - title: "Multi-Perspective Frequency Domain Learning for Generalizable AI-Generated Image Detection"
     authors: "Zili Xu, **Jianjie Luo**<span class=\"corr-author-badge\" title=\"Corresponding author\">✉</span>, Fuqiang Yu, Zhenguo Yang"
-    venue: "In *European Conference on Artificial Intelligence*, 2025."
+    venue: "In *ECAI*, 2025."
     teaser: Deepfake-MFDL.jpg
     links:
       - "[PDF](https://ebooks.iospress.nl/volumearticle/75984?_gl=1*19ytcy1*_up*MQ..*_ga*NDA3NjM1MTY5LjE3NjE3OTQ1NDQ.*_ga_6N3Q0141SM*czE3NjE3OTQ1NDMkbzEkZzEkdDE3NjE3OTQ2NTAkajYwJGwwJGgw){: .btn .btn--info}"
+
+  - title: "Exploring Vision-Language Foundation Model for Novel Object Captioning"
+    authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Jianlin Feng, Hongyang Chao, Tao Mei"
+    venue: "In *IEEE Transactions on Circuits and Systems for Video Technology*, 2025."
+    teaser: NOTC.jpg
+    links:
+      - "[PDF](https://ieeexplore.ieee.org/document/10659916){: .btn .btn--info}"
 
 year2024:
   - title: "Unleashing Text-to-Image Diffusion Prior for Zero-Shot Image Captioning"
@@ -23,14 +30,6 @@ year2024:
       - "[PDF](https://jianjieluo.github.io/SynthImgCap/static/pdfs/ECCV2024_main_CameraReady.pdf){: .btn .btn--info}"
       - "[Website](https://jianjieluo.github.io/SynthImgCap/){: .btn .btn--success}"
 
-  - title: "Exploring Vision-Language Foundation Model for Novel Object Captioning"
-    authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Jianlin Feng, Hongyang Chao, Tao Mei"
-    venue: "In *IEEE Transactions on Circuits and Systems for Video Technology*, 2024."
-    teaser: NOTC.jpg
-    links:
-      - "[PDF](https://ieeexplore.ieee.org/document/10659916){: .btn .btn--info}"
-
-
 year2023:
   - title: "Semantic-Conditional Diffusion Networks for Image Captioning"
     authors: "**Jianjie Luo**, Yehao Li, Yingwei Pan, Ting Yao, Jianlin Feng, Hongyang Chao, Tao Mei"
@@ -40,13 +39,21 @@ year2023:
       - "[PDF](https://arxiv.org/pdf/2212.03099.pdf){: .btn .btn--info}"
       - "[Code](https://github.com/jianjieluo/SCD-Net){: .btn .btn--inverse}"
 
-year2022:
   - title: "Boosting Vision-and-Language Navigation with Direction Guiding and Backtracing"
     authors: "Jingwen Chen, **Jianjie Luo**, Yingwei Pan, Yehao Li, Ting Yao, Hongyang Chao, Tao Mei"
-    venue: "In *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2022."
+    venue: "In *ACM Transactions on Multimedia Computing, Communications, and Applications*, 2023."
     teaser: DNA.png
     links:
       - "[PDF](https://dl.acm.org/doi/pdf/10.1145/3526024){: .btn .btn--info}"
+
+year2022:
+  - title: "Auto-captions on GIF: A Large-scale Video-sentence Dataset for Vision-language Pre-training"
+    authors: "Yingwei Pan, Yehao Li, **Jianjie Luo**, Jun Xu, Ting Yao, Tao Mei"
+    venue: "In *ACM Multimedia*, 2022."
+    teaser: auto_captions_on_gif_dataset.png
+    links:
+      - "[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3551581){: .btn .btn--info}"
+      - "[Website](http://www.auto-video-captions.top/2022/dataset){: .btn .btn--success}"
 
 year2021:
   - title: "CoCo-BERT: Improving Video-Language Pre-training with Contrastive Cross-modal Matching and Denoising"
@@ -55,12 +62,3 @@ year2021:
     teaser: coco_bert.jpg
     links:
       - "[PDF](https://arxiv.org/pdf/2112.07515.pdf){: .btn .btn--info}"
-
-year2020:
-  - title: "Auto-captions on GIF: A Large-scale Video-sentence Dataset for Vision-language Pre-training"
-    authors: "Yingwei Pan, Yehao Li, **Jianjie Luo**, Jun Xu, Ting Yao, Tao Mei"
-    venue: "In *Arxiv*, 2020. Finally accepted in *ACM Multimedia*, 2022."
-    teaser: auto_captions_on_gif_dataset.png
-    links:
-      - "[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3551581){: .btn .btn--info}"
-      - "[Website](http://www.auto-video-captions.top/2022/dataset){: .btn .btn--success}"
