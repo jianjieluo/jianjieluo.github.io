@@ -1,4 +1,12 @@
 # Publications on home page
+year2026:
+  - title: "Boosting Knowledge-based Visual Question Answering with Structured Context Reasoning"
+    authors: "Qiyou Liu, Yong Zhang, **Jianjie Luo**<span class=\"corr-author-badge\" title=\"Corresponding author\">✉</span>, Zhenguo Yang, Yi Yu"
+    venue: "In *ICME*, 2026."
+    teaser: ScoRe.jpg
+    links:
+      - "[PDF](https://jianjieluo.github.io/pdfs/SCoRe_ICME26.pdf){: .btn .btn--info}"
+
 year2025:
   - title: "Improving Identity Preservation in Video Generation with Multi-Branch Models"
     authors: "Jiahao Xu, **Jianjie Luo**<span class=\"corr-author-badge\" title=\"Corresponding author\">✉</span>, Zhenguo Yang"
