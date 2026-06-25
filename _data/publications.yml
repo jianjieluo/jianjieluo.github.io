@@ -6,6 +6,7 @@ year2026:
     teaser: ScoRe.jpg
     links:
       - "[PDF](https://jianjieluo.github.io/pdfs/SCoRe_ICME26.pdf){: .btn .btn--info}"
+      - "[Code](https://github.com/Globarstarliu/SCoRe){: .btn .btn--inverse}"
 
 year2025:
   - title: "Improving Identity Preservation in Video Generation with Multi-Branch Models"
