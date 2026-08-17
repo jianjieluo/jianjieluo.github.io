@@ -6,7 +6,7 @@ year2026:
     teaser: ScoRe.jpg
     links:
       - "[PDF](https://jianjieluo.github.io/pdfs/SCoRe_ICME26.pdf){: .btn .btn--info}"
-      - "[Code](https://github.com/Globarstarliu/SCoRe){: .btn .btn--inverse}"
+      - "[Code](https://github.com/WISLab-GDUT/SCoRe){: .btn .btn--inverse}"
 
 year2025:
   - title: "Improving Identity Preservation in Video Generation with Multi-Branch Models"
@@ -36,7 +36,7 @@ year2024:
     venue: "In *ECCV*, 2024."
     teaser: PCM-Net.jpg
     links:
-      - "[PDF](https://jianjieluo.github.io/SynthImgCap/static/pdfs/ECCV2024_main_CameraReady.pdf){: .btn .btn--info}"
+      - "[PDF](https://arxiv.org/pdf/2501.00437){: .btn .btn--info}"
       - "[Website](https://jianjieluo.github.io/SynthImgCap/){: .btn .btn--success}"
 
 year2023:
