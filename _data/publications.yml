@@ -1,5 +1,13 @@
 # Publications on home page
 year2026:
+  - title: "KeyID: Decoupled Drafting and Keyframe Editing for Identity-Preserving Video Generation"
+    authors: "Jianjie Luo, Yiming Zhong, Haoming Shen, Yupeng Xiao, Zhenguo Yang"
+    venue: "In *ACM Multimedia*, 2026."
+    teaser: KeyID.jpg
+    links:
+      - "[PDF](https://arxiv.org/pdf/2608.16154){: .btn .btn--info}"
+      - "[Code](https://github.com/WISLab-GDUT/KeyID){: .btn .btn--inverse}"
+
   - title: "Boosting Knowledge-based Visual Question Answering with Structured Context Reasoning"
     authors: "Qiyou Liu, Yong Zhang, **Jianjie Luo**<span class=\"corr-author-badge\" title=\"Corresponding author\">✉</span>, Zhenguo Yang, Yi Yu"
     venue: "In *ICME*, 2026."
