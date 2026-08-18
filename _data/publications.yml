@@ -1,7 +1,7 @@
 # Publications on home page
 year2026:
   - title: "KeyID: Decoupled Drafting and Keyframe Editing for Identity-Preserving Video Generation"
-    authors: "Jianjie Luo, Yiming Zhong, Haoming Shen, Yupeng Xiao, Zhenguo Yang"
+    authors: "**Jianjie Luo**, Yiming Zhong, Haoming Shen, Yupeng Xiao, Zhenguo Yang"
     venue: "In *ACM Multimedia*, 2026."
     teaser: KeyID.jpg
     links:
