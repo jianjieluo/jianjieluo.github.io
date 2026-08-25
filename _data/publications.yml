@@ -13,7 +13,7 @@ year2026:
     venue: "In *ICME*, 2026."
     teaser: ScoRe.jpg
     links:
-      - "[PDF](https://jianjieluo.github.io/pdfs/SCoRe_ICME26.pdf){: .btn .btn--info}"
+      - "[PDF](https://arxiv.org/abs/2608.21431){: .btn .btn--info}"
       - "[Code](https://github.com/WISLab-GDUT/SCoRe){: .btn .btn--inverse}"
 
 year2025:
@@ -46,6 +46,7 @@ year2024:
     links:
       - "[PDF](https://arxiv.org/pdf/2501.00437){: .btn .btn--info}"
       - "[Website](https://jianjieluo.github.io/SynthImgCap/){: .btn .btn--success}"
+      - "[Code](https://github.com/jianjieluo/PCM-Net){: .btn .btn--inverse}"
 
 year2023:
   - title: "Semantic-Conditional Diffusion Networks for Image Captioning"
