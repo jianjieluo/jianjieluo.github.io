@@ -32,7 +32,7 @@ Since this page is about recruiting Chinese graduate students, it is written in 
 2. 多模态机器学习（[这是什么？](https://zhuanlan.zhihu.com/p/53511144)）
 3. 计算机视觉（[这是什么？](https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/2803351)）
 
-**(2) 目前研究课题**：1）图像/视频描述生成；2）视觉与语言多模态理解；3）视觉合成；4）视觉合成鉴伪
+**(2) 目前研究课题**：1）视觉与语言多模态理解；2）身份保持的视觉内容生成；3）视觉语言导航
 
 ## 三、其他说明或要求
 
