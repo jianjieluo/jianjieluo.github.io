@@ -1,53 +1,223 @@
 {% include base_path %}
 
-<div id="timeline">
-  <div class="timelineitem">
-    <div class="tdate">2020 -</div>
-    <h3 class="ttitle">Research Scientist, Google</h3>
-    <div class="tdesc">Research into large-scale grounded language learning.
+<style>
+  .timeline {
+    position: relative;
+    padding: 0;
+  }
+  .timeline::before {
+    content: '';
+    position: absolute;
+    left: 7px;
+    top: 14px;
+    bottom: 14px;
+    width: 2px;
+    background: #e2e8f0;
+  }
+
+  .tl-item {
+    position: relative;
+    padding: 0 0 1.4em 36px;
+  }
+  .tl-item:last-child { padding-bottom: 0; }
+  .tl-item::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 6px;
+    width: 16px;
+    height: 16px;
+    border-radius: 50%;
+    border: 3px solid;
+    background: #fff;
+    z-index: 1;
+    box-sizing: border-box;
+  }
+  .tl-item.type-work::before { border-color: #3b82f6; }
+  .tl-item.type-intern::before { border-color: #10b981; }
+  .tl-item.type-edu::before { border-color: #8b5cf6; }
+  .tl-item.is-current::before {
+    background: #3b82f6;
+    border-color: #3b82f6;
+    box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.12);
+  }
+
+  .tl-head {
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+    flex-wrap: wrap;
+    margin-bottom: 0.15em;
+  }
+  .tl-tag {
+    display: inline-block;
+    font-size: 0.68em;
+    padding: 0.12em 0.5em;
+    border-radius: 3px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  .type-work > .tl-head .tl-tag { background: #dbeafe; color: #1d4ed8; }
+  .type-intern > .tl-head .tl-tag { background: #d1fae5; color: #047857; }
+  .type-edu > .tl-head .tl-tag { background: #ede9fe; color: #6d28d9; }
+
+  .tl-date {
+    font-size: 0.82em;
+    color: #64748b;
+    font-weight: 500;
+    font-variant-numeric: tabular-nums;
+  }
+  .tl-role {
+    font-weight: 600;
+    font-size: 0.95em;
+    color: #1e293b;
+    margin: 0;
+    line-height: 1.4;
+  }
+  .tl-inst {
+    font-size: 0.85em;
+    color: #475569;
+    margin-top: 0.05em;
+    line-height: 1.35;
+  }
+  .tl-desc {
+    font-size: 0.82em;
+    color: #94a3b8;
+    margin-top: 0.15em;
+    line-height: 1.4;
+  }
+  .tl-desc a {
+    color: #64748b;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: #cbd5e1;
+    transition: color 0.15s;
+  }
+  .tl-desc a:hover { color: #334155; }
+
+  /* Concurrent sub-items during education */
+  .tl-sub {
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+  }
+  .tl-sub-label {
+    font-size: 0.72em;
+    color: #94a3b8;
+    margin-bottom: 0.3em;
+    margin-left: 0.2em;
+    font-weight: 500;
+  }
+  .tl-sub-item {
+    position: relative;
+    padding: 0.3em 0 0.7em 1.5em;
+    border-left: 1.5px solid #e2e8f0;
+  }
+  .tl-sub-item:last-child { border-left-color: transparent; }
+  .tl-sub-item::before {
+    content: '';
+    position: absolute;
+    left: -5px;
+    top: 12px;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    border: 2px solid;
+    background: #fff;
+    z-index: 1;
+    box-sizing: border-box;
+  }
+  .tl-sub-item.type-intern::before { border-color: #10b981; }
+  .tl-sub-item.type-work::before { border-color: #3b82f6; }
+  .tl-sub-item .tl-tag {
+    display: inline-block;
+    font-size: 0.62em;
+    padding: 0.12em 0.5em;
+    border-radius: 3px;
+    font-weight: 600;
+    letter-spacing: 0.02em;
+  }
+  .tl-sub-item.type-intern .tl-tag { background: #d1fae5; color: #047857; }
+  .tl-sub-item.type-work .tl-tag { background: #dbeafe; color: #1d4ed8; }
+  .tl-sub-item .tl-head { margin-bottom: 0.1em; }
+  .tl-sub-item .tl-role { font-size: 0.9em; }
+  .tl-sub-item .tl-inst { font-size: 0.82em; }
+  .tl-sub-item .tl-desc { font-size: 0.78em; }
+  .tl-sub-item .tl-date { font-size: 0.78em; }
+</style>
+
+<h2 style="clear: both;">Education & Experiences</h2>
+<div class="timeline">
+
+  <div class="tl-item type-work is-current">
+    <div class="tl-head">
+      <span class="tl-tag">Work</span>
+      <span class="tl-date">2025/01 – Present</span>
+    </div>
+    <div class="tl-role">Assistant Professor</div>
+    <div class="tl-inst">School of Computer Science and Technology, Guangdong University of Technology (GDUT), Guangzhou (Canton)</div>
+  </div>
+
+  <div class="tl-item type-edu">
+    <div class="tl-head">
+      <span class="tl-tag">Education</span>
+      <span class="tl-date">2019/08 – 2024/12</span>
+    </div>
+    <div class="tl-role">Ph.D. in Computer Science and Technology</div>
+    <div class="tl-inst">Sun Yat-Sen University (SYSU)</div>
+    <div class="tl-desc">Joint Ph.D. Program with JD.com. Thesis: Describing Multimedia with Semantic Alignment</div>
+    <div class="tl-desc">Thesis: Describing Multimedia with Semantic Alignment</div>
+    <div class="tl-sub">
+      <div class="tl-sub-label">▾ Overlapping experience</div>
+      <div class="tl-sub-item type-intern">
+        <div class="tl-head">
+          <span class="tl-tag">Intern</span>
+          <span class="tl-date">2024/03 – 2024/09</span>
+        </div>
+        <div class="tl-role">Research Assistant</div>
+        <div class="tl-inst">HiDream.ai Inc., Beijing</div>
+        <div class="tl-desc">Mentor: <a href="http://tingyao.deepfun.club/" target="_blank">Ting Yao</a></div>
+      </div>
+      <div class="tl-sub-item type-intern">
+        <div class="tl-head">
+          <span class="tl-tag">Intern</span>
+          <span class="tl-date">2020/07 – 2023/05</span>
+        </div>
+        <div class="tl-role">Research Intern (Star Intern Award)</div>
+        <div class="tl-inst">Computer Vision and Multimedia Lab at JD Explore Academy, Beijing</div>
+        <div class="tl-desc">Mentor: <a href="http://tingyao.deepfun.club/" target="_blank">Ting Yao</a></div>
+      </div>
     </div>
   </div>
-  <div class="timelineitem">
-    <div class="tdate">2018 - 2020</div>
-    <h3 class="ttitle">Research Scientist, Georgia Tech</h3>
-    <div class="tdesc">Collaborating with
-    <a href="https://www.cc.gatech.edu/~dbatra/" target="_blank">Dhruv Batra</a> and
-    <a href="https://www.cc.gatech.edu/~parikh/" target="_blank">Devi Parikh</a> on
-      research in vision and language, e.g. image captioning, visual
-      question answering (VQA), vision-and-language navigation (VLN), etc.
+
+  <div class="tl-item type-edu">
+    <div class="tl-head">
+      <span class="tl-tag">Education</span>
+      <span class="tl-date">2015/08 – 2019/07</span>
+    </div>
+    <div class="tl-role">B.Eng. in Software Engineering</div>
+    <div class="tl-inst">Sun Yat-Sen University (SYSU)</div>
+    <div class="tl-desc">Recipient of the National Scholarship Award, Outstanding Undergraduate Award</div>
+    <div class="tl-sub">
+      <div class="tl-sub-label">▾ Overlapping experience</div>
+      <div class="tl-sub-item type-intern">
+        <div class="tl-head">
+          <span class="tl-tag">Intern</span>
+          <span class="tl-date">2018/07 – 2019/08</span>
+        </div>
+        <div class="tl-role">Research Intern (Star Intern Award)</div>
+        <div class="tl-inst">Computer Vision and Multimedia Lab at JD AI Research, Beijing</div>
+        <div class="tl-desc">Mentor: <a href="http://tingyao.deepfun.club/" target="_blank">Ting Yao</a></div>
+      </div>
+      <div class="tl-sub-item type-intern">
+        <div class="tl-head">
+          <span class="tl-tag">Intern</span>
+          <span class="tl-date">2018/03 – 2018/06</span>
+        </div>
+        <div class="tl-role">Research Intern</div>
+        <div class="tl-inst"><a href="http://www.pixtalks.com/home" target="_blank">Pixtalks Technology</a>, Guangzhou (Canton)</div>
+        <div class="tl-desc">Mentor: <a href="https://fds.cityu.edu.mo/members/238" target="_blank">Shengyong Ding</a></div>
+      </div>
     </div>
   </div>
-  <div class="timelineitem">
-    <div class="tdate">2015 - 2018</div>
-    <h3 class="ttitle">PhD (Computer Science), Australian National University</h3>
-    <div class="tdesc">Machine learning combining visual and linguistic
-      understanding. Affiliated with the <a href="https://roboticvision.org" target="_blank">Australian Centre for Robotic Vision</a>, advised by
-      <a href="https://users.cecs.anu.edu.au/~sgould/" target="_blank">Stephen Gould</a>.
-    </div>
-  </div>
-  <div class="timelineitem">
-    <div class="tdate">2014 - 2015</div>
-    <h3 class="ttitle">Engineer, Sabre Autonomous Solutions</h3>
-    <div class="tdesc">Advancing an autonomous grit-blasting robot from university prototype to commercial product.</div>
-  </div>
-  <div class="timelineitem">
-    <div class="tdate">2013 - 2014</div>
-    <h3 class="ttitle">Flounder, FrameFish</h3>
-    <div class="tdesc">Developing and commercializing virtual try-on technology for glasses and sunglasses.</div>
-  </div>
-  <div class="timelineitem">
-    <div class="tdate">2009 - 2012</div>
-    <h3 class="ttitle">BEng (Computer), University of NSW</h3>
-    <div class="tdesc">1st class honours and university medal.</div>
-  </div>
-  <div class="timelineitem">
-   <div class="tdate">2005 - 2009</div>
-    <h3 class="ttitle">Securities Analyst, Credit Suisse</h3>
-    <div class="tdesc">Sell-side analyst covering Australian financials including commercial banks and investment banks.</div>
-  </div>
-  <div class="timelineitem">
-    <div class="tdate">2000 - 2004</div>
-    <h3 class="ttitle">BComm (Finance & Economics), University of Sydney</h3>
-    <div class="tdesc">1st class honours and university medal.</div>
-  </div>
+
 </div>
