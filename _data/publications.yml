@@ -1,5 +1,13 @@
 # Publications on home page
 year2026:
+  - title: "Self-Consistency Geometry Injection for Multi-view Consistent Image Generation"
+    authors: "Yupeng Xiao, Yankai Wu, **Jianjie Luo**<span class=\"corr-author-badge\" title=\"Corresponding author\">✉</span>, Jiajie Lin, Yi Yu, Zhenguo Yang"
+    venue: "In *ACCV*, 2026."
+    teaser: RGMV.jpg
+    links:
+      - "[PDF](https://arxiv.org/pdf/2610.38518){: .btn .btn--info}"
+      - "[Code](https://github.com/WISLab-GDUT/RGMV){: .btn .btn--inverse}"
+
   - title: "KeyID: Decoupled Drafting and Keyframe Editing for Identity-Preserving Video Generation"
     authors: "**Jianjie Luo**, Yiming Zhong, Haoming Shen, Yupeng Xiao, Zhenguo Yang"
     venue: "In *ACM Multimedia*, 2026."
