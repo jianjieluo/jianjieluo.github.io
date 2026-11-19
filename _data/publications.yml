@@ -13,7 +13,7 @@ year2026:
     venue: "In *ACM Multimedia*, 2026."
     teaser: KeyID.jpg
     links:
-      - "[PDF](https://arxiv.org/pdf/2608.16154){: .btn .btn--info}"
+      - "[PDF](https://dl.acm.org/doi/epdf/10.1145/3767308.3837690){: .btn .btn--info}"
       - "[Code](https://github.com/WISLab-GDUT/KeyID){: .btn .btn--inverse}"
 
   - title: "Boosting Knowledge-based Visual Question Answering with Structured Context Reasoning"
